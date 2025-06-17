@@ -48,15 +48,13 @@ Game studios and entertainment brands often need launch websites that create hyp
 
 ## 📸 Screenshots
 
-> 📷 Add real images or gifs in `/src/assets` and update paths below.
-
-![Hero](./src/assets/home.png)  
+![Hero](public/img/hero.png)  
 *Hero view with animated title and call-to-action*
 
-![Section Animations](./src/assets/section.png)  
+![Section Animations](public/img/features.png)  
 *Scroll-triggered section transitions*
 
-![Responsive View](./src/assets/mobile.png)  
+![Responsive View](public/img/responsive.png)  
 *Fully responsive layout on mobile*
 
 ---
